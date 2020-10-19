@@ -12,8 +12,7 @@ Python | Flask | TextBlob
 
 ### App
 
-Take a look here: 
-https://saltyhackers.netlify.app/app
+Take a look [here](https://saltyhackers.netlify.app/).
 
 ## App credentials
 
